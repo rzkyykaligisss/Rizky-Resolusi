@@ -2,3 +2,5 @@ RIZKY RESOLUSI
 -belajar html css dan javacript
 -konsisten dalam mempelajari bahasa pemrograman
 -membuat website
+-data science
+-machine learning
